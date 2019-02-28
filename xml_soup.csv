@@ -1,0 +1,239 @@
+,Titles,Description,Links,Dates
+0,Blog - Looking back at 2018,"
+       Here is a summary of events in my life in 2018.
+     ",http://www.srikanthtechnologies.com/blog/personal/2018/lookback2018.aspx,"Sat, 5 Jan 2019 12:00:00"
+1,Blog - Adding JAR to Local Repository,"
+       In this blog, I show how to add a JAR file to Local Repository so that Maven can use it.
+     ",http://www.srikanthtechnologies.com/blog/java/localrepo.aspx,"Wed, 31 OCT 2018 12:00:00"
+2,"
+       My new course - 'C' Interview Questions - at Udemy
+     ","
+     Here is my new FREE course at Udemy to help students prepare for C Language Interviews.
+     ",http://www.srikanthtechnologies.com/blog/personal/udemy_course.aspx,"Thu, 25 Oct 2018 09:00:00"
+3,"Added Python Language to Online Examination System
+   ","
+     Python Language examination enables you to asses your knowledge of Python Language and Library.
+     ",http://www.srikanthtechnologies.com/exam/takeexam.aspx,"Thu, 04 Oct 2018 09:00:00"
+4,"Video Tutorial - How to use Python's DB API 2.0 to access SQLite database
+   ","
+       In this video, I show how to use DB API of Python to connect to SQLite database.
+     ",https://youtu.be/VKBUAlZQ9D4,"Tue, 12 Sep 2018 09:00:00"
+5,Blog - Python Style Guide,"
+       This blog lists styles to be used while writing Python code.
+
+     ",http://www.srikanthtechnologies.com/blog/python/style_guide.aspx,"Mon, 10 Sep 2018 12:00:00"
+6,Blog - Rest API in Django + jQuery Client,"
+       In this blog we create a Rest API using Django REST Framework and access it from jQuery client.
+       
+     ",http://www.srikanthtechnologies.com/blog/python/rest_jquery/rest_jquery.aspx,"Mon, 27 Aug 2018 12:00:00"
+7,Blog - Creating custom directives in Angular,"
+     In this blog, I show how to create and use custom directives in Angular.
+     ",http://www.srikanthtechnologies.com/blog/angular/custom_directives.aspx,"Fri, 2 Jul 2018 12:00:00"
+8,"Video Tutorial - Learn how to build a web application using JSP, JSTL and Oracle Database","
+      In this video, I build a web application using JSP,  JSTL and Oracle Database from start to finish. This application is a simple CRUD (create, read, update and delete) application developed using Java EE.  Complete code for this application is found at  https://github.com/srikanthpragada/javaee_books
+     ",http://www.srikanthtechnologies.com/videos/videos.aspx,"Mon, 21 May 2018 09:00:00"
+9,Video Tutorial - How to get started with Python and PyCharm,"
+       This video tutorial shows how to install Python and PyCharm and get started with Python Programming
+     ",http://www.srikanthtechnologies.com/videos/videos.aspx,"Sun, 06 May 2018 09:00:00"
+10,Online Course - C Language For Beginners - at Udemy.Com,"
+     I have published an online course - C Language For Beginners at Udemy.Com.
+     ",http://www.srikanthtechnologies.com/udemy/c/course.aspx,"Thu, 3 May 2018 12:00:00"
+11,Blog - Method Resolution Order (MRO) in Python,"
+       This blog helps you to understand what is Method Resoultion Order in Python and its usage.
+     ",http://www.srikanthtechnologies.com/blog/python/mro.aspx,"Wed, 14 Mar 2018 12:00:00"
+12,Blog - Accessing Oracle From Python,"
+      This blog shows how to connect to Oracle from Python using cx_Oracle package. 
+     ",http://www.srikanthtechnologies.com/blog/python/using_cx_oracle.aspx,"Fri, 2 Mar 2018 12:00:00"
+13,Blog - Looking back at 2017,"
+       Here is a summary of events in my life in 2017.
+     ",http://www.srikanthtechnologies.com/blog/personal/2017/lookback2017.aspx,"Tue, 2 Jan 2018 12:00:00"
+14,Video Tutorial - Oracle Database 11g XE + JDBC + Servlets,"
+         This video tutorial shows how to access Oracle Database 11g XE from Servlets using JDBC
+         ",http://www.srikanthtechnologies.com/videos/videos.aspx,"Fri, 08 Sep 2017 16:00:00"
+15,Video Tutorial - How to create a Linked List in C Language,"
+       This video tutorial shows how to create a Linked List in Language
+       ",http://www.srikanthtechnologies.com/videos/videos.aspx,"Fri, 08 Sep 2017 09:30:00"
+16,Blog - Microsoft Certification,"
+      This blog gives information related to Microsoft Certification.
+     ",http://www.srikanthtechnologies.com/blog/general/microsoft_certification.aspx,"Mon, 21 Aug 2017 12:00:00"
+17,Blog - Time vs. Money,"
+     The blog throws light on learning, saving money or time.
+     ",http://www.srikanthtechnologies.com/blog/general/time_vs_money.aspx,"Tue, 15 Aug 2017 12:00:00"
+18,How to use Online Courses offered by Srikanth Pragada,"
+       This video explains steps to be taken to join Online Courses offered by Srikanth Pragada
+     ",https://youtu.be/dEEeYqgQFNA,"Tue, 25 Jul 2017 12:00:00"
+19,Audio Player - Search and play song in Android Device,"
+     This blog shows how to allow user to search for songs in the device by title and play selected song.
+     ",http://www.srikanthtechnologies.com/blog/android/audioplayer2.aspx,"Thu, 22 Jun 2017 12:00:00"
+20,Using Firebase from Android Application,"
+     In this blog, I explain how to use realtime database Firebase from Android Application.
+     ",http://www.srikanthtechnologies.com/blog/android/firebase/using_firebase.aspx,"Thu, 22 Jun 2017 12:00:00"
+21,What's New In C# 7.0,"
+       This blog shows how to use new features of C# 7.0.
+     ",http://www.srikanthtechnologies.com/blog/dotnet/csharp7.0.aspx,"Thu, 23 Mar 2017 12:00:00"
+22,What's New In C# 6.0,"
+     This blog shows how to use new features of C# 6.0.
+     ",http://www.srikanthtechnologies.com/blog/dotnet/csharp6.0.aspx,"Mon, 20 Mar 2017 12:00:00"
+23,Accessing GitHub.Com Rest API from Spring,"
+       This blog shows how to use Rest API provided by GitHub from Spring Framework.
+     ",http://www.srikanthtechnologies.com/blog/java/spring/git_api_client.aspx,"Mon, 13 Mar 2017 12:00:00"
+24,Getting started with Spring Framework,"
+       This blog shows how to get started with Spring Framework using STS and Maven.
+      ",http://www.srikanthtechnologies.com/blog/java/spring/get_started.aspx,"Sat, 4 Mar 2017 12:00:00"
+25,Blog - Looking back at 2016,"
+     Here is a summary of events in my life in 2016.
+     ",http://www.srikanthtechnologies.com/blog/personal/2016/lookback2016.aspx,"Sun, 8 Jan 2017 12:00:00"
+26,How to use Hibernate + Maven + Oracle in Eclipse,"
+            This blog shows how to create a project using Maven in Eclipse that uses 
+            Hibernate to access Oracle.
+          ",http://www.srikanthtechnologies.com/blog/java/hmo/hmo.aspx,"Sun, 23 Oct 2016 12:00:00"
+27,Blog - 25 Years of Blissful Training,"
+       This blog looks at my 25 years of blissful training.
+       ",http://www.srikanthtechnologies.com/blog/personal/25years.aspx,"Sat, 03 Sep 2016 12:00:00"
+28,How to use Jersey + Jackson + jQuery,"
+       This blog shows how to use Jersey and Jackson to create a Restful service and jQuery to consume it.
+     ",http://www.srikanthtechnologies.com/blog/java/jersey_jackson/jersey_jackson_jquery.aspx,"Sat, 30 Jul 2016 12:00:00"
+29,Video Tutorial - How to use CodeBlocks IDE for C Programming,"
+     This video tutorial shows how to use CodeBlocks IDE  to write, compile and run C programs.
+     ",http://www.srikanthtechnologies.com/videos/videos.aspx,"Thu, 28 Jul 2016 08:30:00"
+30,Video Tutorial - How to use Oracle Database with Oracle Application Express,"
+     Learn how to use Oracle Application Express  to access Oracle Database 12c.
+     ",http://www.srikanthtechnologies.com/videos/videos.aspx,"Wed, 27 Jul 2016 12:00:00"
+31,Video Tutorial - Get started with Oracle Database 11g XE and SQL Developer,"
+     Learn how to get started with Oracle Database 11g XE and SQL Developer
+     ",http://www.srikanthtechnologies.com/videos/videos.aspx,"Wed, 27 Jul 2016 12:00:00"
+32,MyNotes - ASP.NET MVC + Entity Framework project,"
+     This web application allows users to store important information in the form of notes. 
+     ",http://www.srikanthtechnologies.com/aspnet/projects/mynotes/mynotes.aspx,"Tue, 26 Jul 2016 12:00:00"
+33,Blog - Inter-Fragment Communication in Android,"
+     This blog demonstrates how a Fragment communicates with Activity and other Fragments hosted 
+     in the Activity. 
+     ",http://www.srikanthtechnologies.com/blog/android/interfragmentcommunication.aspx,"Wed, 20 Jul 2016 12:00:00"
+34,BooksForCOD.COM - JSF 2.2 + JDBC + Oracle + Eclipse Project,"
+       This web application allows users to order books online and pay by cash on delivery (COD).
+     ",http://www.srikanthtechnologies.com/javaee/projects/eclipse/booksforcod.html,"Thu, 2 Jun 2016 12:00:00"
+35,CRUD Operations with Restful Service in Java,"
+      This blog shows how to create a Restful service that supports Create, Read, Update and Delete operations.
+     ",http://www.srikanthtechnologies.com/blog/java/rest_crud.aspx,"Tue, 5 Apr 2016 12:00:00"
+36,Blog - Resetting SYSTEM account password in Oracle Database ,"
+     This blog shows how to change password of SYSTEM account if you forgot it. 
+     ",http://www.srikanthtechnologies.com/blog/oracle/reset_system_pwd.aspx,"Mon, 7 Mar 2016 12:00:00"
+37,Blog - Android Application - Vehicle Registration Number Finder,"
+     This blog shows how to build Android App that lists possible registration numbers based on number of digits and total
+     ",http://www.srikanthtechnologies.com/blog/android/VehicleNumberFinder.aspx,"Mon, 25 Jan 2016 12:00:00"
+38,Blog - Looking back at 2015,"
+       Here is a summary of events in my life in 2015.
+     ",http://www.srikanthtechnologies.com/blog/personal/2015/lookback2015.aspx,"Fri, 8 Jan 2016 12:00:00"
+39,PersonalDiary - JSF 2.2 + JDBC  + Eclipse Project,"
+       This web application allows users to maintain their diary online.
+     ",http://www.srikanthtechnologies.com/javaee/projects/personaldiary_jdbc_eclipse.html,"Fri, 8 Jan 2016 12:00:00"
+40,Blog - Todos List With IndexedDB,"
+     In this blog, I develop a single page application to maintain todos list using IndexedDB of HTML5
+     ",http://www.srikanthtechnologies.com/blog/richclient/todos_indexeddb.aspx,"Sat, 24 Oct 2015 12:00:00"
+41,Blog - My Day,"
+     In this blog I describe my typical day.
+     ",http://www.srikanthtechnologies.com/blog/personal/myday/myday.aspx,"Thu, 24 Sep 2015 12:00:00"
+42,PersonalDiary - JSF 2.2 + JDBC Project,"
+     This web application allows users to maintain their diary online. 
+     ",http://www.srikanthtechnologies.com/javaee/projects/personaldiary_jdbc.html,"Sat, 19 Sep 2015 12:00:00"
+43,MyDeposits - ASP.NET MVC + Entity Framework project,"
+     This web application allows users to store details of fixed deposits. 
+     ",http://www.srikanthtechnologies.com/aspnet/projects/mydeposits/mydeposits.aspx,"Sat, 19 Sep 2015 12:00:00"
+44,How To Change Port Number Of GlassFish Server 4.1,"
+      This blog shows how to change port number of GlassFish Server 4.1 from 8080 to 8888.
+     ",http://www.srikanthtechnologies.com/blog/java/changeglassfishport_4.1.aspx,"Fri, 11 Sep 2015 12:00:00"
+45,REST API for Employees with jQuery Client,"
+      This blog shows how to provide information about employees in Oracle Database using RESTful service and how to access service using jQuery client.
+     ",http://www.srikanthtechnologies.com/blog/java/rest_employees.aspx,"Wed, 9 Sep 2015 12:00:00"
+46,Video - Getting started with Java,"
+       This video shows how to download, install and use Java SE 8.0 to compile Java program ",https://www.youtube.com/watch?v=2iHIduqLxjQ,"Sun, 6 Sep 2015 12:00:00"
+47,"Server in Java, Client in C# and Data in XML","
+     This blog shows how to send XML data from Server Socket in Java to Client Socket in C# 
+     ",http://www.srikanthtechnologies.com/blog/java/java_cs_xml.aspx,"Fri, 7 Aug 2015 12:00:00"
+48,Sockets and Serialization in Java,"
+     This blog shows how to send a Java object from server socket to client socket using serialization
+     ",http://www.srikanthtechnologies.com/blog/java/sockets_serialize.aspx,"Thu, 6 Aug 2015 12:00:00"
+49,Personal Accounting - ASP.NET MVC + Entity Framework project,"
+      This web application allows users to store details of Incomes and Expenditures.
+     ",http://www.srikanthtechnologies.com/aspnet/projects/pa/pa.aspx,"Thu, 9 Jul 2015 12:00:00"
+50,My book - C Language for beginners - is available on Amazon,"
+     C Language for beginner is now available on Amazon in Kindle Edition. 
+     ",http://www.srikanthtechnologies.com/blog/general/c_kindle.aspx,"Sat, 4 Jul 2015 12:00:00"
+51,Blog -  How to fix Tomcat 127.0.0.1 is not recognized problem in Netbeans,"
+     In this blog I provided the solution regarding - 127.0.0.1 is not recognized - error of Tomcat in NetBeans.
+     ",http://www.srikanthtechnologies.com/blog/java/tomcat_127.0.0.1_error.aspx,"Mon, 22 Jun 2015 12:00:00"
+52,MyNotes.Com developed using Struts2 + Hibernate,"
+     This website allows users to store important information called notes.
+     ",http://www.srikanthtechnologies.com/javaee/projects/mynotes/mynotes_eclipse.aspx,"Mon, 15 Jun 2015 12:00:00"
+53,Blog - Consuming Web API from AngularJS ,"
+     This blog shows how to consume ASP.NET Web API using AngularJS.
+     ",http://www.srikanthtechnologies.com/blog/richclient/web_api_contacts_angularjs/contacts_angularjs.aspx,"Thu, 30 Apr 2015 12:00:00"
+54,Blog - How to use Webcam to snap photo and store in Database,"
+      This blog shows how to use Webcam to snap a photo and store that photo in Sql Server Database using MS.Net.
+     ",http://www.srikanthtechnologies.com/blog/richclient/webcam/webcam.aspx,"Wed, 29 Apr 2015 12:00:00"
+55,MyTasks.Com - ASP.NET MVC + Entity Framework project,"
+      This web application allows users to store and manage their projects and tasks.
+     ",http://www.srikanthtechnologies.com/aspnet/projects/mytasks/mytasks.aspx,"Tue, 28 Apr 2015 12:00:00"
+56,Cart with LocalStorage,"
+       This blog shows how to use LocalStorage to store shopping cart so that cart is retained across requests.
+       ",http://www.srikanthtechnologies.com/blog/richclient/jquery_cart.aspx,"Sat, 18 Apr 2015 12:00:00"
+57,MyCalendar.Com developed using Struts2 + Hibernate (Eclipse Luna Version),"
+       This website allows users to store information about events.
+     ",http://www.srikanthtechnologies.com/javaee/projects/mycalendar_eclipse/mycalendar_eclipse.aspx,"Sun, 29 Mar 2015 12:00:00"
+58,Email Sender - ASP.NET MVC + LINQ project,"
+       This web application is used to send emails to students of batches.
+     ",http://www.srikanthtechnologies.com/aspnet/projects/emailsender.html,"Thu, 19 Feb 2015 12:00:00"
+59,Oracle HR Schema Queries and PL/SQL programs,"
+     Here is a list of SQL Queries and PL/SQL programs related to tables in HR schema in Oracle Database.
+     ",http://www.srikanthtechnologies.com/oracle/hrschema.html,"Sun, 18 Jan 2015 12:00:00"
+60,Looking back at 2014,"
+         Here is a summary of events in my life in 2014.
+         ",http://www.srikanthtechnologies.com/blog/personal/lookback2014.aspx,"Mon, 5 Jan 2015 12:00:00"
+61,Streams in Java8,"
+       In this blog I explained how to work with Streams introduced in Java8.
+     ",http://www.srikanthtechnologies.com/blog/java/streams.aspx,"Mon, 5 Jan 2015 12:00:00"
+62,Lyrics.Com - ASP.NET MVC + LINQ project,"
+     This web application allows users to store and manage lyrics on web.
+     ",http://www.srikanthtechnologies.com/aspnet/projects/lyrics.html,"Sun, 7 Dec 2014 12:00:00"
+63,MyCalendar.Com developed using Struts2 + Hibernate,"
+     This website allows users to store information about events.
+     ",http://www.srikanthtechnologies.com/javaee/projects/mycalendar.html,"Wed, 29 Oct 2014 12:00:00"
+64,Students Tracker - ASP.NET MVC + Entity Framework Project,"
+     Students Tracker allows an Institute to keep tracke of its courses and students.
+     ",http://www.srikanthtechnologies.com/aspnet/projects/studentstracker.html,"Thu, 18 Sep 2014 12:00:00"
+65,Lambda Expressions,"
+     This blog explains how to use Lambda Expressions that are introduced in Java 8.
+     ",http://www.srikanthtechnologies.com/blog/java/lambda_expressions.aspx,"Sun, 14 Sep 2014 12:00:00"
+66,Books I Recommend,"
+     This web applications allows users to store and track bank accounts and transactions related to those accounts. 
+     ",http://www.srikanthtechnologies.com/blog/personal/books_i_recommend.aspx,"Sun, 24 Aug 2014 12:00:00"
+67,Bank Accounts Tracker,"
+     This web applications allows users to store and track bank accounts and transactions realted to those accounts. 
+     ",http://www.srikanthtechnologies.com/aspnet/projects/bankaccounts.html,"Sat, 12 Jul 2014 12:00:00"
+68,Introducing Online Live Virtual Classroom Training,"
+     We are introducing Online Live Virtual Classroom Training on JavaScript. 
+     ",http://www.srikanthtechnologies.com/js/syllabus.aspx,"Fri, 11 Jul 2014 12:00:00"
+69,Contacts Web API with jQuery Client,"
+     This blog shows how to access a Web API through Ajax using jQuery.  
+     ",http://www.srikanthtechnologies.com/blog/dotnet/contacts_webapi.aspx,"Mon, 7 Jul 2014 12:00:00"
+70,YourNotes.Com developed using JSF 2.2 + Hibernate,"
+     This website allows users to store important information (known as notes) online. 
+     ",http://www.srikanthtechnologies.com/javaee/projects/yournotes.html,"Fri, 20 Jun 2014 12:00:00"
+71,New Date and Time API in Java8,"
+     This blog explains how to use new Date and Time API introduced in Java8.
+     ",http://www.srikanthtechnologies.com/blog/java/java8_newdate.aspx,"Tue, 10 Jun 2014 12:00:00"
+72,Srikanth Pragada's C Language for beginners is now available,"
+     C Language for beginners is a book written and published by Srikanth Pragada.  It provides all a comprehensive coverage of all topics of ANSI C.
+     ",http://www.srikanthtechnologies.com/books/cbook.aspx,"Tue, 3 Jun 2014 12:00:00"
+73,"How to use Quincy 2005 to write, compile and run C programs","
+     Quincy 2005 is an open source IDE for C/C++ on Windows. Learn how to download, install and  use it. 
+     ",http://www.srikanthtechnologies.com/books/cbook_2014/quincy_2005.aspx,"Tue, 3 Jun 2014 12:00:00"
+74,MyAccounts.com developed using ASP.NET MVC 4 + LINQ,"
+     This web application allows users to stored information about their accounts of other websites.
+     ",http://www.srikanthtechnologies.com/aspnet/projects/myaccounts.html,"Thu, 8 May 2014 12:00:00"
+75,Students Information System (SIS) developed using ASP.NET MVC 4 + LINQ,"
+     This web application allows parents to get information about their children in School.
+     ",http://www.srikanthtechnologies.com/aspnet/projects/sis.html,"Fri, 7 Feb 2014 12:00:00"
+76,Looking back at 2013,"
+     My blog regarding important events in 2013.
+     ",http://www.srikanthtechnologies.com/blog/personal/lookback2013.aspx,"Wed, 1 Jan 2014 12:00:00"
